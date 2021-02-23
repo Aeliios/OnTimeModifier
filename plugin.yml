@@ -1,0 +1,5 @@
+name: OnTimeModifier
+version: 1.0
+author: Aeliios
+main : fr.aeliios.ontimemodifier.OnTimeModifier
+api-version: 1.13
